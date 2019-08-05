@@ -1,0 +1,675 @@
+[
+  [
+    {
+      "word": "بدترنز",
+      "pos": "N",
+      "ner": "O",
+      "dep": {
+        "position": 1,
+        "lemma": "بدترنز",
+        "features": "_",
+        "head": 3,
+        "relation": "SBJ",
+        "cPOS": "N"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/بدترنز_(کرم_رایانه‌ای)",
+        "isResource": true,
+        "rank": 5.0E-4,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "کرمی",
+      "pos": "N",
+      "ner": "O",
+      "dep": {
+        "position": 2,
+        "lemma": "کرمی",
+        "features": "_",
+        "head": 3,
+        "relation": "MOS",
+        "cPOS": "N"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/کرمی",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "است",
+      "pos": "V",
+      "ner": "O",
+      "dep": {
+        "position": 3,
+        "lemma": "#است",
+        "features": "_",
+        "head": 0,
+        "relation": "ROOT",
+        "cPOS": "V"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "که",
+      "pos": "CONJ",
+      "ner": "O",
+      "dep": {
+        "position": 4,
+        "lemma": "که",
+        "features": "_",
+        "head": 2,
+        "relation": "NCL",
+        "cPOS": "CONJ"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "در",
+      "pos": "P",
+      "ner": "O",
+      "dep": {
+        "position": 5,
+        "lemma": "در",
+        "features": "_",
+        "head": 11,
+        "relation": "ADV",
+        "cPOS": "P"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "تاریخ",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 6,
+        "lemma": "تاریخ",
+        "features": "_",
+        "head": 5,
+        "relation": "POSDEP",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/تاریخ",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Quote",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Work",
+          "http://fkg.iust.ac.ir/ontology/WrittenWork",
+          "http://fkg.iust.ac.ir/ontology/Thing",
+          "http://fkg.iust.ac.ir/ontology/Quote"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "۲۴",
+      "pos": "NUMe",
+      "ner": "B-MISC",
+      "dep": {
+        "position": 7,
+        "lemma": "۲۴",
+        "features": "_",
+        "head": 6,
+        "relation": "MOZ",
+        "cPOS": "NUMe"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/۲۴_نوامبر",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "نوامبر",
+      "pos": "Ne",
+      "ner": "I-MISC",
+      "dep": {
+        "position": 8,
+        "lemma": "نوامبر",
+        "features": "_",
+        "head": 11,
+        "relation": "SBJ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/۲۴_نوامبر",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "۲۰۰۱",
+      "pos": "NUM",
+      "ner": "I-MISC",
+      "dep": {
+        "position": 9,
+        "lemma": "۲۰۰۱",
+        "features": "_",
+        "head": 8,
+        "relation": "MOZ",
+        "cPOS": "NUM"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "انتشار",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 10,
+        "lemma": "انتشار",
+        "features": "_",
+        "head": 11,
+        "relation": "NVE",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/انتشار",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": [
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/انتشار_(رایانه)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Thing"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "یافته‌است",
+      "pos": "V",
+      "ner": "O",
+      "dep": {
+        "position": 11,
+        "lemma": "یافته‌است",
+        "features": "_",
+        "head": 4,
+        "relation": "PRD",
+        "cPOS": "V"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": ".",
+      "pos": "PUNC",
+      "ner": "O",
+      "dep": {
+        "position": 12,
+        "lemma": ".",
+        "features": "_",
+        "head": 3,
+        "relation": "PUNC",
+        "cPOS": "PUNC"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    }
+  ],
+  [
+    {
+      "word": "این",
+      "pos": "DET",
+      "ner": "O",
+      "dep": {
+        "position": 1,
+        "lemma": "این",
+        "features": "_",
+        "head": 2,
+        "relation": "NPREMOD",
+        "cPOS": "DET"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "کرم",
+      "pos": "N",
+      "ner": "O",
+      "dep": {
+        "position": 2,
+        "lemma": "کرم",
+        "features": "_",
+        "head": 11,
+        "relation": "PREDEP",
+        "cPOS": "N"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/کرم",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": [
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/کرم_(داروسازی)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Thing"
+          ]
+        },
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/کرم_(جانور)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Species",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Thing",
+            "http://fkg.iust.ac.ir/ontology/Species"
+          ]
+        },
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/کرم_(آرایشی)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Thing"
+          ]
+        },
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/کرم_(رنگ)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Thing"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "با",
+      "pos": "P",
+      "ner": "O",
+      "dep": {
+        "position": 3,
+        "lemma": "با",
+        "features": "_",
+        "head": 13,
+        "relation": "ADV",
+        "cPOS": "P"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "نصب",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 4,
+        "lemma": "نصب",
+        "features": "_",
+        "head": 3,
+        "relation": "POSDEP",
+        "cPOS": "Ne"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "کی‌لاگر",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 5,
+        "lemma": "کی‌لاگر",
+        "features": "_",
+        "head": 4,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/کی‌لاگر",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "اطلاعات",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 6,
+        "lemma": "اطلاعات",
+        "features": "_",
+        "head": 5,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/اطلاعات",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "ورود",
+      "pos": "N",
+      "ner": "O",
+      "dep": {
+        "position": 7,
+        "lemma": "ورود",
+        "features": "_",
+        "head": 6,
+        "relation": "MOZ",
+        "cPOS": "N"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/ورود",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "به",
+      "pos": "P",
+      "ner": "O",
+      "dep": {
+        "position": 8,
+        "lemma": "به",
+        "features": "_",
+        "head": 7,
+        "relation": "NPP",
+        "cPOS": "P"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "سامانه‌های",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 9,
+        "lemma": "سامانه",
+        "features": "_",
+        "head": 8,
+        "relation": "POSDEP",
+        "cPOS": "Ne"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "مختلف",
+      "pos": "AJ",
+      "ner": "O",
+      "dep": {
+        "position": 10,
+        "lemma": "مختلف",
+        "features": "_",
+        "head": 9,
+        "relation": "NPOSTMOD",
+        "cPOS": "AJ"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "را",
+      "pos": "POSTP",
+      "ner": "O",
+      "dep": {
+        "position": 11,
+        "lemma": "را",
+        "features": "_",
+        "head": 13,
+        "relation": "OBJ",
+        "cPOS": "POSTP"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "توزیع",
+      "pos": "N",
+      "ner": "O",
+      "dep": {
+        "position": 12,
+        "lemma": "توزیع",
+        "features": "_",
+        "head": 13,
+        "relation": "NVE",
+        "cPOS": "N"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/توزیع",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": [
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/توزیع_(ریاضیات)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Thing"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "می‌کند",
+      "pos": "V",
+      "ner": "O",
+      "dep": {
+        "position": 13,
+        "lemma": "کرد#کن",
+        "features": "_",
+        "head": 0,
+        "relation": "ROOT",
+        "cPOS": "V"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": ".",
+      "pos": "PUNC",
+      "ner": "O",
+      "dep": {
+        "position": 14,
+        "lemma": ".",
+        "features": "_",
+        "head": 13,
+        "relation": "PUNC",
+        "cPOS": "PUNC"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    }
+  ],
+  [
+    {
+      "word": "جستارهای",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 1,
+        "lemma": "جستار",
+        "features": "_",
+        "head": 0,
+        "relation": "ROOT",
+        "cPOS": "Ne"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "وابسته",
+      "pos": "AJ",
+      "ner": "O",
+      "dep": {
+        "position": 2,
+        "lemma": "وابسته",
+        "features": "_",
+        "head": 1,
+        "relation": "NPOSTMOD",
+        "cPOS": "AJ"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "فهرست",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 3,
+        "lemma": "فهرست",
+        "features": "_",
+        "head": 1,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/فهرست_کرم‌های_رایانه‌ای",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "کرم‌های",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 4,
+        "lemma": "کرم",
+        "features": "_",
+        "head": 3,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/فهرست_کرم‌های_رایانه‌ای",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "رایانه‌ای",
+      "pos": "AJe",
+      "ner": "O",
+      "dep": {
+        "position": 5,
+        "lemma": "رایانه",
+        "features": "_",
+        "head": 4,
+        "relation": "NPOSTMOD",
+        "cPOS": "AJe"
+      },
+      "iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/فهرست_کرم‌های_رایانه‌ای",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "منابع",
+      "pos": "N",
+      "ner": "O",
+      "dep": {
+        "position": 6,
+        "lemma": "منابع",
+        "features": "_",
+        "head": 4,
+        "relation": "MOZ",
+        "cPOS": "N"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    }
+  ]
+]

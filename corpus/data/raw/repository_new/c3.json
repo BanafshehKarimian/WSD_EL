@@ -1,0 +1,682 @@
+[
+  [
+    {
+      "word": "بدفورد",
+      "pos": "N",
+      "ner": "B-PERS",
+      "dep": {
+        "position": 1,
+        "lemma": "بدفورد",
+        "features": "_",
+        "head": 11,
+        "relation": "SBJ",
+        "cPOS": "N"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/auto/بدفورد_هایتس",
+        "isResource": true,
+        "rank": 0.0,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Person",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing",
+          "http://fkg.iust.ac.ir/ontology/Agent",
+          "http://fkg.iust.ac.ir/ontology/Person"
+        ]
+      },
+      "ambiguities": [
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/بدفورد_(شهرک)،_نیویوک",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Settlement",
+            "http://fkg.iust.ac.ir/ontology/Thing",
+            "http://fkg.iust.ac.ir/ontology/Place",
+            "http://fkg.iust.ac.ir/ontology/PopulatedPlace"
+          ]
+        },
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/بدفورد",
+          "isResource": true,
+          "rank": 0.001,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Thing"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "هایتس",
+      "pos": "N",
+      "ner": "I-PERS",
+      "dep": {
+        "position": 2,
+        "lemma": "هایتس",
+        "features": "_",
+        "head": 1,
+        "relation": "MOZ",
+        "cPOS": "N"
+      },
+      "iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/auto/بدفورد_هایتس",
+        "isResource": true,
+        "rank": 0.0,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Person",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing",
+          "http://fkg.iust.ac.ir/ontology/Agent",
+          "http://fkg.iust.ac.ir/ontology/Person"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "شهری",
+      "pos": "AJ",
+      "ner": "O",
+      "dep": {
+        "position": 3,
+        "lemma": "شهر",
+        "features": "_",
+        "head": 2,
+        "relation": "NPOSTMOD",
+        "cPOS": "AJ"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "در",
+      "pos": "P",
+      "ner": "O",
+      "dep": {
+        "position": 4,
+        "lemma": "در",
+        "features": "_",
+        "head": 11,
+        "relation": "ADV",
+        "cPOS": "P"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "ایالت",
+      "pos": "Ne",
+      "ner": "B-ORG",
+      "dep": {
+        "position": 5,
+        "lemma": "ایالت",
+        "features": "_",
+        "head": 4,
+        "relation": "POSDEP",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/اوهایو",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/AdministrativeRegion",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing",
+          "http://fkg.iust.ac.ir/ontology/AdministrativeRegion",
+          "http://fkg.iust.ac.ir/ontology/Place",
+          "http://fkg.iust.ac.ir/ontology/PopulatedPlace",
+          "http://fkg.iust.ac.ir/ontology/Region"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "اوهایو",
+      "pos": "Ne",
+      "ner": "I-ORG",
+      "dep": {
+        "position": 6,
+        "lemma": "اوهایو",
+        "features": "_",
+        "head": 5,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/اوهایو",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/AdministrativeRegion",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing",
+          "http://fkg.iust.ac.ir/ontology/AdministrativeRegion",
+          "http://fkg.iust.ac.ir/ontology/Place",
+          "http://fkg.iust.ac.ir/ontology/PopulatedPlace",
+          "http://fkg.iust.ac.ir/ontology/Region"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "کشور",
+      "pos": "Ne",
+      "ner": "I-ORG",
+      "dep": {
+        "position": 7,
+        "lemma": "کشور",
+        "features": "_",
+        "head": 6,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/کشور",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "ایالات",
+      "pos": "Ne",
+      "ner": "I-ORG",
+      "dep": {
+        "position": 8,
+        "lemma": "ایالات",
+        "features": "_",
+        "head": 7,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/ایالات_متحده_آمریکا",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Country",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing",
+          "http://fkg.iust.ac.ir/ontology/Place",
+          "http://fkg.iust.ac.ir/ontology/PopulatedPlace",
+          "http://fkg.iust.ac.ir/ontology/Country"
+        ]
+      },
+      "ambiguities": [
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/ایالات_متحده_آمریکا_(ابهام‌زدایی)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Thing"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "متحده",
+      "pos": "AJe",
+      "ner": "I-ORG",
+      "dep": {
+        "position": 9,
+        "lemma": "متحده",
+        "features": "_",
+        "head": 8,
+        "relation": "NPOSTMOD",
+        "cPOS": "AJe"
+      },
+      "iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/ایالات_متحده_آمریکا",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Country",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing",
+          "http://fkg.iust.ac.ir/ontology/Place",
+          "http://fkg.iust.ac.ir/ontology/PopulatedPlace",
+          "http://fkg.iust.ac.ir/ontology/Country"
+        ]
+      },
+      "ambiguities": [
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/ایالات_متحده_آمریکا_(ابهام‌زدایی)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Thing"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "آمریکا",
+      "pos": "N",
+      "ner": "I-ORG",
+      "dep": {
+        "position": 10,
+        "lemma": "آمریکا",
+        "features": "_",
+        "head": 11,
+        "relation": "MOS",
+        "cPOS": "N"
+      },
+      "iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/ایالات_متحده_آمریکا",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Country",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing",
+          "http://fkg.iust.ac.ir/ontology/Place",
+          "http://fkg.iust.ac.ir/ontology/PopulatedPlace",
+          "http://fkg.iust.ac.ir/ontology/Country"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "است",
+      "pos": "V",
+      "ner": "O",
+      "dep": {
+        "position": 11,
+        "lemma": "#است",
+        "features": "_",
+        "head": 0,
+        "relation": "ROOT",
+        "cPOS": "V"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "که",
+      "pos": "CONJ",
+      "ner": "O",
+      "dep": {
+        "position": 12,
+        "lemma": "که",
+        "features": "_",
+        "head": 2,
+        "relation": "NCL",
+        "cPOS": "CONJ"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "جمعیت",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 13,
+        "lemma": "جمعیت",
+        "features": "_",
+        "head": 23,
+        "relation": "SBJ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/جمعیت",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "آن",
+      "pos": "PRO",
+      "ner": "O",
+      "dep": {
+        "position": 14,
+        "lemma": "آن",
+        "features": "_",
+        "head": 13,
+        "relation": "MOZ",
+        "cPOS": "PRO"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "در",
+      "pos": "P",
+      "ner": "O",
+      "dep": {
+        "position": 15,
+        "lemma": "در",
+        "features": "_",
+        "head": 23,
+        "relation": "ADV",
+        "cPOS": "P"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "سرشماری",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 16,
+        "lemma": "سرشماری",
+        "features": "_",
+        "head": 15,
+        "relation": "POSDEP",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/سرشماری",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "سال",
+      "pos": "Ne",
+      "ner": "B-MISC",
+      "dep": {
+        "position": 17,
+        "lemma": "سال",
+        "features": "_",
+        "head": 16,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/سال",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "۲۰۱۰",
+      "pos": "NUMe",
+      "ner": "I-MISC",
+      "dep": {
+        "position": 18,
+        "lemma": "۲۰۱۰",
+        "features": "_",
+        "head": 17,
+        "relation": "MOZ",
+        "cPOS": "NUMe"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/۲۰۱۰_(میلادی)",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "میلادی",
+      "pos": "AJ",
+      "ner": "I-MISC",
+      "dep": {
+        "position": 19,
+        "lemma": "میلاد",
+        "features": "_",
+        "head": 18,
+        "relation": "NPOSTMOD",
+        "cPOS": "AJ"
+      },
+      "iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/۲۰۱۰_(میلادی)",
+        "isResource": true,
+        "rank": 5.0E-4,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "،",
+      "pos": "PUNC",
+      "ner": "O",
+      "dep": {
+        "position": 20,
+        "lemma": "،",
+        "features": "_",
+        "head": 19,
+        "relation": "PUNC",
+        "cPOS": "PUNC"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "۱۰٬۷۵۱",
+      "pos": "NUM",
+      "ner": "O",
+      "dep": {
+        "position": 21,
+        "lemma": "۱۰٬۷۵۱",
+        "features": "_",
+        "head": 22,
+        "relation": "NPREMOD",
+        "cPOS": "NUM"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "نفر",
+      "pos": "N",
+      "ner": "O",
+      "dep": {
+        "position": 22,
+        "lemma": "نفر",
+        "features": "_",
+        "head": 23,
+        "relation": "SBJ",
+        "cPOS": "N"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/نفر",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": [
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/نفر_(ایل)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Thing"
+          ]
+        }
+      ]
+    },
+    {
+      "word": "بوده‌است",
+      "pos": "V",
+      "ner": "O",
+      "dep": {
+        "position": 23,
+        "lemma": "بوده‌است",
+        "features": "_",
+        "head": 12,
+        "relation": "PRD",
+        "cPOS": "V"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": ".",
+      "pos": "PUNC",
+      "ner": "O",
+      "dep": {
+        "position": 24,
+        "lemma": ".",
+        "features": "_",
+        "head": 11,
+        "relation": "PUNC",
+        "cPOS": "PUNC"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    }
+  ],
+  [
+    {
+      "word": "جستارهای",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 1,
+        "lemma": "جستار",
+        "features": "_",
+        "head": 0,
+        "relation": "ROOT",
+        "cPOS": "Ne"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "وابسته",
+      "pos": "AJ",
+      "ner": "O",
+      "dep": {
+        "position": 2,
+        "lemma": "وابسته",
+        "features": "_",
+        "head": 1,
+        "relation": "NPOSTMOD",
+        "cPOS": "AJ"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    },
+    {
+      "word": "فهرست",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 3,
+        "lemma": "فهرست",
+        "features": "_",
+        "head": 1,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/فهرست_شهرهای_اوهایو",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "شهرهای",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 4,
+        "lemma": "شهر",
+        "features": "_",
+        "head": 3,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/فهرست_شهرهای_اوهایو",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "اوهایو",
+      "pos": "Ne",
+      "ner": "B-LOC",
+      "dep": {
+        "position": 5,
+        "lemma": "اوهایو",
+        "features": "_",
+        "head": 4,
+        "relation": "MOZ",
+        "cPOS": "Ne"
+      },
+      "iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/فهرست_شهرهای_اوهایو",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },
+      "ambiguities": []
+    },
+    {
+      "word": "منابع",
+      "pos": "N",
+      "ner": "I-LOC",
+      "dep": {
+        "position": 6,
+        "lemma": "منابع",
+        "features": "_",
+        "head": 5,
+        "relation": "MOZ",
+        "cPOS": "N"
+      },
+      "iobType": "Outside",
+      "ambiguities": []
+    }
+  ]
+]

@@ -1,0 +1,143 @@
+    {      "word": "بدیع‌آباد",      "pos": "N",      "ner": "O",      "dep": {        "position": 1,        "lemma": "بدیع‌آباد",        "features": "_",        "head": 17,        "relation": "SBJ",        "cPOS": "N"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/بدیع‌آباد",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":0}
+{      "word": "(",      "pos": "PUNC",      "ner": "O",      "dep": {        "position": 2,        "lemma": "(",        "features": "_",        "head": 3,        "relation": "PUNC",        "cPOS": "PUNC"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "نهاوند",      "pos": "N",      "ner": "B-LOC",      "dep": {        "position": 3,        "lemma": "نهاوند",        "features": "_",        "head": 1,        "relation": "APP",        "cPOS": "N"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/نهاوند",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/City",        "classes": [          "http://fkg.iust.ac.ir/ontology/City",          "http://fkg.iust.ac.ir/ontology/Settlement",          "http://fkg.iust.ac.ir/ontology/Thing",          "http://fkg.iust.ac.ir/ontology/Place",          "http://fkg.iust.ac.ir/ontology/PopulatedPlace"        ]      },"ambiguities": []    ,"FarseNetID":24706}
+{      "word": ")",      "pos": "PUNC",      "ner": "O",      "dep": {        "position": 4,        "lemma": ")",        "features": "_",        "head": 3,        "relation": "PUNC",        "cPOS": "PUNC"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "،",      "pos": "PUNC",      "ner": "O",      "dep": {        "position": 5,        "lemma": "،",        "features": "_",        "head": 3,        "relation": "PUNC",        "cPOS": "PUNC"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "روستایی",      "pos": "AJ",      "ner": "O",      "dep": {        "position": 6,        "lemma": "روستا",        "features": "_",        "head": 3,        "relation": "NPOSTMOD",        "cPOS": "AJ"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/روستا",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":11761}
+{      "word": "از",      "pos": "P",      "ner": "O",      "dep": {        "position": 7,        "lemma": "از",        "features": "_",        "head": 3,        "relation": "NPP",        "cPOS": "P"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "توابع",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 8,        "lemma": "توابع",        "features": "_",        "head": 7,        "relation": "POSDEP",        "cPOS": "Ne"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/تابع",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":0}
+{      "word": "بخش",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 9,        "lemma": "بخش",        "features": "_",        "head": 8,        "relation": "MOZ",        "cPOS": "Ne"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/بخش_مرکزی_شهرستان_نهاوند",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":13282}
+{      "word": "مرکزی",      "pos": "AJe",      "ner": "O",      "dep": {        "position": 10,        "lemma": "مرکزی",        "features": "_",        "head": 9,        "relation": "NPOSTMOD",        "cPOS": "AJe"      },"iobType": "Inside",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/بخش_مرکزی_شهرستان_نهاوند",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":0}
+{      "word": "شهرستان",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 11,        "lemma": "شهرستان",        "features": "_",        "head": 9,        "relation": "MOZ",        "cPOS": "Ne"      },"iobType": "Inside",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/بخش_مرکزی_شهرستان_نهاوند",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":13281}
+{      "word": "نهاوند",      "pos": "N",      "ner": "B-LOC",      "dep": {        "position": 12,        "lemma": "نهاوند",        "features": "_",        "head": 11,        "relation": "MOZ",        "cPOS": "N"      },"iobType": "Inside",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/بخش_مرکزی_شهرستان_نهاوند",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":24706}
+{      "word": "در",      "pos": "P",      "ner": "O",      "dep": {        "position": 13,        "lemma": "در",        "features": "_",        "head": 17,        "relation": "ADV",        "cPOS": "P"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "استان",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 14,        "lemma": "استان",        "features": "_",        "head": 13,        "relation": "POSDEP",        "cPOS": "Ne"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/استان_همدان",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Province",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing",          "http://fkg.iust.ac.ir/ontology/AdministrativeRegion",          "http://fkg.iust.ac.ir/ontology/Place",          "http://fkg.iust.ac.ir/ontology/GovernmentalAdministrativeRegion",          "http://fkg.iust.ac.ir/ontology/PopulatedPlace",          "http://fkg.iust.ac.ir/ontology/Province",          "http://fkg.iust.ac.ir/ontology/Region"        ]      },"ambiguities": []    ,"FarseNetID":13286}
+{      "word": "همدان",      "pos": "N",      "ner": "B-LOC",      "dep": {        "position": 15,        "lemma": "همدان",        "features": "_",        "head": 14,        "relation": "MOZ",        "cPOS": "N"      },"iobType": "Inside",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/استان_همدان",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Province",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing",          "http://fkg.iust.ac.ir/ontology/AdministrativeRegion",          "http://fkg.iust.ac.ir/ontology/Place",          "http://fkg.iust.ac.ir/ontology/GovernmentalAdministrativeRegion",          "http://fkg.iust.ac.ir/ontology/PopulatedPlace",          "http://fkg.iust.ac.ir/ontology/Province",          "http://fkg.iust.ac.ir/ontology/Region"        ]      },"ambiguities": []    ,"FarseNetID":20111}
+{      "word": "ایران",      "pos": "N",      "ner": "O",      "dep": {        "position": 16,        "lemma": "ایران",        "features": "_",        "head": 17,        "relation": "MOS",        "cPOS": "N"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/ایران",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Country",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing",          "http://fkg.iust.ac.ir/ontology/Place",          "http://fkg.iust.ac.ir/ontology/PopulatedPlace",          "http://fkg.iust.ac.ir/ontology/Country"        ]      },"ambiguities": []    ,"FarseNetID":13478}
+{      "word": "است",      "pos": "V",      "ner": "O",      "dep": {        "position": 17,        "lemma": "#است",        "features": "_",        "head": 0,        "relation": "ROOT",        "cPOS": "V"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": ".",      "pos": "PUNC",      "ner": "O",      "dep": {        "position": 18,        "lemma": ".",        "features": "_",        "head": 17,        "relation": "PUNC",        "cPOS": "PUNC"      },"iobType": "Outside",      "ambiguities": []    }  --,"FarseNetID":0}
+    {      "word": "جمعیت",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 1,        "lemma": "جمعیت",        "features": "_",        "head": 11,        "relation": "SBJ",        "cPOS": "Ne"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/جمعیت",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":13192}
+{      "word": "این",      "pos": "DET",      "ner": "O",      "dep": {        "position": 2,        "lemma": "این",        "features": "_",        "head": 3,        "relation": "NPREMOD",        "cPOS": "DET"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "روستا",      "pos": "N",      "ner": "O",      "dep": {        "position": 3,        "lemma": "روستا",        "features": "_",        "head": 1,        "relation": "MOZ",        "cPOS": "N"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/روستا",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": [        {          "iri": "http://fkg.iust.ac.ir/resource/روستا_(پیمونت)",          "isResource": true,          "rank": 5.0E-4,          "mainClass": "http://fkg.iust.ac.ir/ontology/Settlement",          "classes": [            "http://fkg.iust.ac.ir/ontology/Settlement",            "http://fkg.iust.ac.ir/ontology/Thing",            "http://fkg.iust.ac.ir/ontology/Place",            "http://fkg.iust.ac.ir/ontology/PopulatedPlace"          ]        }      ]    ,"FarseNetID":10386}
+{      "word": "در",      "pos": "P",      "ner": "O",      "dep": {        "position": 4,        "lemma": "در",        "features": "_",        "head": 11,        "relation": "ADV",        "cPOS": "P"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+
+      "word": "دهستان",
+      "pos": "Ne",
+      "ner": "O",
+      "dep": {
+        "position": 5,
+        "lemma": "دهستان",
+        "features": "_",
+        "head": 4,
+        "relation": "POSDEP",
+        "cPOS": "Ne"
+      },"iobType": "Beginning",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/دهستان_گاماسیاب",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },"ambiguities": [
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/دهستان_گاماسیاب_(صحنه)",
+          "isResource": true,
+          "rank": 0.001,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Settlement",
+            "http://fkg.iust.ac.ir/ontology/Thing",
+            "http://fkg.iust.ac.ir/ontology/Place",
+            "http://fkg.iust.ac.ir/ontology/PopulatedPlace"
+          ]
+        ,"FarseNetID":0}
+
+          "iri": "http://fkg.iust.ac.ir/resource/دهستان_گاماسیاب_(نهاوند)",
+          "isResource": true,
+          "rank": 0.001,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Settlement",
+            "http://fkg.iust.ac.ir/ontology/Thing",
+            "http://fkg.iust.ac.ir/ontology/Place",
+            "http://fkg.iust.ac.ir/ontology/PopulatedPlace"
+          ]
+        }
+      ]
+    ,"FarseNetID":24706}
+
+      "word": "گاماسیاب",
+      "pos": "N",
+      "ner": "O",
+      "dep": {
+        "position": 6,
+        "lemma": "گاماسیاب",
+        "features": "_",
+        "head": 5,
+        "relation": "MOZ",
+        "cPOS": "N"
+      },"iobType": "Inside",
+      "resource": {
+        "iri": "http://fkg.iust.ac.ir/resource/دهستان_گاماسیاب",
+        "isResource": true,
+        "rank": 0.001,
+        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+        "classes": [
+          "http://fkg.iust.ac.ir/ontology/Thing"
+        ]
+      },"ambiguities": [
+        {
+          "iri": "http://fkg.iust.ac.ir/resource/دهستان_گاماسیاب_(صحنه)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Settlement",
+            "http://fkg.iust.ac.ir/ontology/Thing",
+            "http://fkg.iust.ac.ir/ontology/Place",
+            "http://fkg.iust.ac.ir/ontology/PopulatedPlace"
+          ]
+        ,"FarseNetID":0}
+
+          "iri": "http://fkg.iust.ac.ir/resource/دهستان_گاماسیاب_(نهاوند)",
+          "isResource": true,
+          "rank": 5.0E-4,
+          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",
+          "classes": [
+            "http://fkg.iust.ac.ir/ontology/Settlement",
+            "http://fkg.iust.ac.ir/ontology/Thing",
+            "http://fkg.iust.ac.ir/ontology/Place",
+            "http://fkg.iust.ac.ir/ontology/PopulatedPlace"
+          ]
+        }
+      ]
+    ,"FarseNetID":10524}
+{      "word": "(",      "pos": "PUNC",      "ner": "O",      "dep": {        "position": 7,        "lemma": "(",        "features": "_",        "head": 8,        "relation": "PUNC",        "cPOS": "PUNC"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "نهاوند",      "pos": "N",      "ner": "B-LOC",      "dep": {        "position": 8,        "lemma": "نهاوند",        "features": "_",        "head": 6,        "relation": "APP",        "cPOS": "N"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/نهاوند",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/City",        "classes": [          "http://fkg.iust.ac.ir/ontology/City",          "http://fkg.iust.ac.ir/ontology/Settlement",          "http://fkg.iust.ac.ir/ontology/Thing",          "http://fkg.iust.ac.ir/ontology/Place",          "http://fkg.iust.ac.ir/ontology/PopulatedPlace"        ]      },"ambiguities": []    ,"FarseNetID":0}
+{      "word": ")",      "pos": "PUNC",      "ner": "O",      "dep": {        "position": 9,        "lemma": ")",        "features": "_",        "head": 8,        "relation": "PUNC",        "cPOS": "PUNC"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "قرار",      "pos": "N",      "ner": "O",      "dep": {        "position": 10,        "lemma": "قرار",        "features": "_",        "head": 11,        "relation": "NVE",        "cPOS": "N"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/تجمع",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": [        {          "iri": "http://fkg.iust.ac.ir/resource/قرار_(حقوق)",          "isResource": true,          "rank": 5.0E-4,          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",          "classes": [            "http://fkg.iust.ac.ir/ontology/Thing"          ]        }      ]    ,"FarseNetID":25918}
+{      "word": "دارد",      "pos": "V",      "ner": "O",      "dep": {        "position": 11,        "lemma": "داشت#دار",        "features": "_",        "head": 12,        "relation": "PREDEP",        "cPOS": "V"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":14252}
+{      "word": "و",      "pos": "CONJ",      "ner": "O",      "dep": {        "position": 12,        "lemma": "و",        "features": "_",        "head": 29,        "relation": "VCONJ",        "cPOS": "CONJ"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":12936}
+{      "word": "براساس",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 13,        "lemma": "براساس",        "features": "_",        "head": 29,        "relation": "SBJ",        "cPOS": "Ne"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":13478}
+{      "word": "سرشماری",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 14,        "lemma": "سرشماری",        "features": "_",        "head": 13,        "relation": "MOZ",        "cPOS": "Ne"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/سرشماری",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":0}
+{      "word": "مرکز",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 15,        "lemma": "مرکز",        "features": "_",        "head": 14,        "relation": "MOZ",        "cPOS": "Ne"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/مرکز_آمار_ایران",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Organisation",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing",          "http://fkg.iust.ac.ir/ontology/Organisation",          "http://fkg.iust.ac.ir/ontology/Agent"        ]      },"ambiguities": []    ,"FarseNetID":12652}
+{      "word": "آمار",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 16,        "lemma": "آمار",        "features": "_",        "head": 15,        "relation": "MOZ",        "cPOS": "Ne"      },"iobType": "Inside",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/مرکز_آمار_ایران",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Organisation",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing",          "http://fkg.iust.ac.ir/ontology/Organisation",          "http://fkg.iust.ac.ir/ontology/Agent"        ]      },"ambiguities": []    ,"FarseNetID":0}
+{      "word": "ایران",      "pos": "N",      "ner": "B-LOC",      "dep": {        "position": 17,        "lemma": "ایران",        "features": "_",        "head": 16,        "relation": "MOZ",        "cPOS": "N"      },"iobType": "Inside",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/مرکز_آمار_ایران",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Organisation",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing",          "http://fkg.iust.ac.ir/ontology/Organisation",          "http://fkg.iust.ac.ir/ontology/Agent"        ]      },"ambiguities": []    ,"FarseNetID":0}
+{      "word": "در",      "pos": "P",      "ner": "O",      "dep": {        "position": 18,        "lemma": "در",        "features": "_",        "head": 29,        "relation": "ADV",        "cPOS": "P"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":13192}
+{      "word": "سال",      "pos": "Ne",      "ner": "B-MISC",      "dep": {        "position": 19,        "lemma": "سال",        "features": "_",        "head": 18,        "relation": "POSDEP",        "cPOS": "Ne"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/سال",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":0}
+{      "word": "۱۳۹۵",      "pos": "NUM",      "ner": "I-MISC",      "dep": {        "position": 20,        "lemma": "۱۳۹۵",        "features": "_",        "head": 19,        "relation": "MOZ",        "cPOS": "NUM"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "،",      "pos": "PUNC",      "ner": "O",      "dep": {        "position": 21,        "lemma": "،",        "features": "_",        "head": 20,        "relation": "PUNC",        "cPOS": "PUNC"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":10152}
+{      "word": "جمعیت",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 22,        "lemma": "جمعیت",        "features": "_",        "head": 29,        "relation": "ADV",        "cPOS": "Ne"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/جمعیت",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":0}
+{      "word": "آن",      "pos": "PRO",      "ner": "O",      "dep": {        "position": 23,        "lemma": "آن",        "features": "_",        "head": 22,        "relation": "MOZ",        "cPOS": "PRO"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "۷۸",      "pos": "NUM",      "ner": "O",      "dep": {        "position": 24,        "lemma": "۷۸",        "features": "_",        "head": 25,        "relation": "NPREMOD",        "cPOS": "NUM"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "نفر",      "pos": "N",      "ner": "O",      "dep": {        "position": 25,        "lemma": "نفر",        "features": "_",        "head": 29,        "relation": "SBJ",        "cPOS": "N"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/نفر",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": [        {          "iri": "http://fkg.iust.ac.ir/resource/نفر_(ایل)",          "isResource": true,          "rank": 5.0E-4,          "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",          "classes": [            "http://fkg.iust.ac.ir/ontology/Thing"          ]        }      ]    ,"FarseNetID":0}
+{      "word": "(",      "pos": "PUNC",      "ner": "O",      "dep": {        "position": 26,        "lemma": "(",        "features": "_",        "head": 27,        "relation": "PUNC",        "cPOS": "PUNC"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "۲۷خانوار",      "pos": "AJ",      "ner": "O",      "dep": {        "position": 27,        "lemma": "۲۷خانوار",        "features": "_",        "head": 25,        "relation": "APP",        "cPOS": "AJ"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":}}
+    {      "word": "جستارهای",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 1,        "lemma": "جستار",        "features": "_",        "head": 6,        "relation": "SBJ",        "cPOS": "Ne"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "وابسته",      "pos": "AJ",      "ner": "O",      "dep": {        "position": 2,        "lemma": "وابسته",        "features": "_",        "head": 1,        "relation": "NPOSTMOD",        "cPOS": "AJ"      },"iobType": "Outside",      "ambiguities": []    ,"FarseNetID":0}
+{      "word": "فهرست",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 3,        "lemma": "فهرست",        "features": "_",        "head": 1,        "relation": "MOZ",        "cPOS": "Ne"      },"iobType": "Beginning",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/فهرست_روستاهای_ایران",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":13080}
+{      "word": "روستاهای",      "pos": "Ne",      "ner": "O",      "dep": {        "position": 4,        "lemma": "روستا",        "features": "_",        "head": 3,        "relation": "MOZ",        "cPOS": "Ne"      },"iobType": "Inside",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/فهرست_روستاهای_ایران",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":11761}
+{      "word": "ایران",      "pos": "N",      "ner": "B-LOC",      "dep": {        "position": 5,        "lemma": "ایران",        "features": "_",        "head": 4,        "relation": "MOZ",        "cPOS": "N"      },"iobType": "Inside",      "resource": {        "iri": "http://fkg.iust.ac.ir/resource/فهرست_روستاهای_ایران",        "isResource": true,        "rank": 0.001,        "mainClass": "http://fkg.iust.ac.ir/ontology/Thing",        "classes": [          "http://fkg.iust.ac.ir/ontology/Thing"        ]      },"ambiguities": []    ,"FarseNetID":13478}
+{      "word": "منابع",      "pos": "N",      "ner": "O",      "dep": {        "position": 6,        "lemma": "منابع",        "features": "_",        "head": 0,        "relation": "ROOT",        "cPOS": "N"      },"iobType": "Outside",      "ambiguities": []    }  --,"FarseNetID":0}
