@@ -156,7 +156,7 @@
                          <manifest>
                              <addClasspath>true</addClasspath>
                              <classpathPrefix>lib/</classpathPrefix>
-                             <mainClass>WSD.textWWSDMain</mainClass>
+                             <mainClass>WSD.Application</mainClass>
                          </manifest>
                      </archive>
                  </configuration>
