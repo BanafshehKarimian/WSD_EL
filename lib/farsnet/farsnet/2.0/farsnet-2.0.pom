@@ -1,0 +1,18 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>farsnet</groupId>
+    <artifactId>farsnet</artifactId>
+    <version>2.0</version>
+    <name>Farsnet Library</name>
+    <description>
+    </description>
+    <url>http://www.antlr.org/</url>
+    <licenses>
+        <license>
+            <name>BSD License</name>
+            <url>http://www.antlr.org/license.html</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <dependencies/>
+</project>
