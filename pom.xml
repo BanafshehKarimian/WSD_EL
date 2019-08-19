@@ -7,6 +7,13 @@
     <artifactId>gs-handling-form-submission</artifactId>
     <version>0.1.0</version>
 
+    <repositories>
+        <repository>
+            <id>my-local-repo</id>
+            <url>file://${basedir}/lib</url>
+        </repository>
+    </repositories>
+
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
@@ -14,34 +21,30 @@
     </parent>
 
     <dependencies>
-       <dependency>
-            <groupId>com.roufid.tutorials4</groupId>
-            <artifactId>apachecommons</artifactId>
-            <version>1.0</version>
-            <systemPath>${basedir}/lib/org.apache.commons.io.jar</systemPath>
-            <scope>system</scope>
-        </dependency>
+        <!--       <dependency>-->
+        <!--            <groupId>com.roufid.tutorials4</groupId>-->
+        <!--            <artifactId>apachecommons</artifactId>-->
+        <!--            <version>1.0</version>-->
+        <!--            <systemPath>${basedir}/lib/org.apache.commons.io.jar</systemPath>-->
+        <!--            <scope>system</scope>-->
+        <!--        </dependency>-->
         <dependency>
-            <groupId>com.roufid.tutorials</groupId>
+            <groupId>farsnet</groupId>
             <artifactId>farsnet</artifactId>
             <version>2.0</version>
-            <scope>system</scope>
-            <systemPath>${basedir}/lib/farsnet.jar</systemPath>
         </dependency>
         <dependency>
-            <groupId>com.roufid.tutorials2</groupId>
+            <groupId>jhazm</groupId>
             <artifactId>jhazm</artifactId>
-            <version>1.0</version>
-           <scope>system</scope>
-            <systemPath>${basedir}/lib/jhazm.jar</systemPath>
+            <version>0.2</version>
         </dependency>
-        <dependency>
-            <groupId>com.roufid.tutorials3</groupId>
-            <artifactId>mitjwi</artifactId>
-            <version>2.1.5</version>
-            <scope>system</scope>
-             <systemPath>${basedir}/lib/edu.mit.jwi_2.1.5.jar</systemPath>
-        </dependency>
+        <!--        <dependency>-->
+        <!--            <groupId>com.roufid.tutorials3</groupId>-->
+        <!--            <artifactId>mitjwi</artifactId>-->
+        <!--            <version>2.1.5</version>-->
+        <!--            <scope>system</scope>-->
+        <!--             <systemPath>${basedir}/lib/edu.mit.jwi_2.1.5.jar</systemPath>-->
+        <!--        </dependency>-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -68,7 +71,7 @@
         <dependency>
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
-            <version>2.0</version>
+            <version>2.6</version>
         </dependency>
         <dependency>
             <groupId>commons-cli</groupId>
@@ -85,12 +88,18 @@
             <artifactId>stanford-corenlp</artifactId>
             <version>3.5.0</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/edu.mit/jwi -->
+        <dependency>
+            <groupId>edu.mit</groupId>
+            <artifactId>jwi</artifactId>
+            <version>2.2.1</version>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.json/org.json -->
         <dependency>
             <groupId>org.json</groupId>
             <artifactId>org.json</artifactId>
             <version>chargebee-1.0</version>
         </dependency>
-
     </dependencies>
 
     <properties>
